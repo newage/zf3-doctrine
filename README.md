@@ -1,6 +1,4 @@
-# Liberatus
-PHP Microservice for validation JWT
- 
+
 ## Set up
 ### Docker
 1. Copy `docker/.env.example` to `docker/.env` file.
